@@ -6,6 +6,7 @@
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/HTML)  
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/CSS)  
 
+![Capture d'écran 2025-04-22 133317](https://github.com/user-attachments/assets/0a06ebbf-2245-4759-b9b0-c9b141cc8540)
 
 
 ## 📌 Exigences validées  
