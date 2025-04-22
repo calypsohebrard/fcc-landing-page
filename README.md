@@ -22,6 +22,14 @@ Ce projet répond à tous les critères de [user stories freeCodeCamp](https://w
 - **Media Queries** : Adapté pour mobile/tablette  
 
 ## 🛠 Stack Technique  
-```plaintext
 - HTML5 (balisage sémantique)
 - CSS3 (Flexbox/
+
+## 🚀 Déploiement  
+Le projet est hébergé via GitHub Pages :  
+🔗 **[Lien vers le Portfolio en ligne](https://calypsohebrard.github.io/fcc-landing-page/)**  
+
+### Installation locale  
+```bash
+git clone https://github.com/calypsohebrard/fcc-landing-page.git  
+cd fcc-landing-page  
